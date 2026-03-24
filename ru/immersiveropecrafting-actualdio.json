@@ -1,0 +1,14 @@
+{
+  "immersiverope:blockhelp-unfinishedrope-addfiber": "Добавить волокно",
+  "immersiverope:blockhelp-unfinishedrope-addfiberx5": "Добавить волокно x 5",
+  "immersiverope:blockhelp-loosestone-beginropecrafting": "Начать плетение веревки",
+  "immersiverope:blockhelp-unfinishedrope-braidrope": "Плести веревку (Быстрее если сесть)",
+  "immersiverope:block-unfinishedrope-*": "Незавершённая веревка",
+  "immersiverope:block-unfinishedrope-fiberamount": "Доступно волокна: ",
+  "immersiverope:block-unfinishedrope-workdone": "Прогресс: ",
+  "immersiverope:error-invalidfibersource": "Этот предмет не является допустимым источником волокна!",
+  "immersiverope:error-notemptyhanded": "Освободите обе руки для плетения веревки!",
+  "immersiverope:error-notenoughfiber": "У вас недостаточно волокна для продолжения плетения веревки. Добавьте больше!",
+  "immersiverope:manualropecrafting_title": "Механика создания: Плетение веревки",
+  "immersiverope:manualropecrafting_text": "Вы можете создать веревку используя плетение! Для этого щелкните <hk>sneak</hk>+<hk>rightmouse</hk> по лежащему на земле камню с подходящим источником волокна (наведитесь на камень, чтобы увидеть предметы подходящие для использования). Затем удерживайте <hk>rightmouse</hk> с пустыми руками и плетите веревку до тех пор, пока есть достаточно волокна в незавершенной веревке для этого. Завершите процесс плетения до конца чтобы получить готовую веревку."
+}
