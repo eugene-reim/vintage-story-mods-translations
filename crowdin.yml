@@ -1,3 +1,4 @@
 files:
   - source: /assets/*/lang/en.json
     translation: /%original_path%/%two_letters_code%.%file_extension%
+commit_message: "New translations %original_path% from Crowdin"
