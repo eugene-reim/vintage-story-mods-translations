@@ -1,0 +1,20 @@
+﻿{
+    "dryingspeedoverhaul:block-dryingrack-aged": "Secadero de madera envejecida",
+    "dryingspeedoverhaul:block-dryingrack-bamboo": "Secadero de bambú",
+    "dryingspeedoverhaul:block-dryingrack-acacia": "Secadero de acacia",
+    "dryingspeedoverhaul:block-dryingrack-baldcypress": "Secadero de ciprés calvo",
+    "dryingspeedoverhaul:block-dryingrack-birch": "Secadero de abedul",
+    "dryingspeedoverhaul:block-dryingrack-ebony": "Secadero de ébano",
+    "dryingspeedoverhaul:block-dryingrack-kapok": "Secadero de kapok",
+    "dryingspeedoverhaul:block-dryingrack-larch": "Secadero de alerce",
+    "dryingspeedoverhaul:block-dryingrack-maple": "Secadero de arce",
+    "dryingspeedoverhaul:block-dryingrack-oak": "Secadero de roble",
+    "dryingspeedoverhaul:block-dryingrack-pine": "Secadero de pino",
+    "dryingspeedoverhaul:block-dryingrack-purpleheart": "Secadero de corazón púrpura",
+    "dryingspeedoverhaul:block-dryingrack-redwood": "Secadero de secuoya",
+    "dryingspeedoverhaul:block-dryingrack-walnut": "Secadero de nogal",
+    "dryingspeedoverhaul:gui-dryingrack-title": "Secadero",
+    "dryingspeedoverhaul:hud-stored-drying-speed": "Velocidad de secado de objetos almacenados: {0}x",
+    "dryingspeedoverhaul:craftinginfo-dryingspeed-title": "Velocidad de secado",
+    "dryingspeedoverhaul:craftinginfo-dryingspeed-text": "<font color='#aaaaaa'><i>Esta traducción fue realizada con IA. Nos disculpamos por cualquier error.</i></font><br><br>Todos los valores mostrados son valores predeterminados y pueden cambiarse en el archivo de configuración del mod.<br><br><font weight='bold'>Temperatura</font><br>Por debajo de <font weight='bold'>0°C</font> el secado se detiene. A <font weight='bold'>30°C</font> el secado funciona a velocidad normal. A <font weight='bold'>60°C</font> el secado funciona a <font weight='bold'>2x</font> de velocidad.<br>Las habitaciones ofrecen un bono de aislamiento de <font weight='bold'>+8°C</font>, o <font weight='bold'>+12°C</font> en una habitación pequeña.<br><br><font weight='bold'>Fuente de calor cercana</font><br>Una fuente de calor cercana dentro de 3 bloques aumenta considerablemente la velocidad de secado. La distancia importa — más cerca es más fuerte.<br>Las fuentes de calor anulan las temperaturas frías, fijando la temperatura efectiva a al menos <font weight='bold'>30°C</font>.<br><br><font weight='bold'>Viento</font><br>El viento aumenta la velocidad de secado hasta <font weight='bold'>1,5x</font> con viento máximo. Solo funciona en exteriores.<br><br><font weight='bold'>Lluvia</font><br>La lluvia hace que los objetos estén más húmedos, llevando la velocidad de secado a negativo. Requiere acceso al cielo.<br><br><font weight='bold'>Tipo de almacenamiento</font><br>Almacenamiento abierto — cualquier contenedor de exhibición como estantes de herramientas, secaderos y pilas en el suelo: <font weight='bold'>1,0x</font><br>Inventarios de entidades como jugadores y botes: <font weight='bold'>0,5x</font><br>Almacenamiento cerrado como cofres y barriles: <font weight='bold'>0,25x</font><br><br>Los contenedores de exhibición se consideran almacenamiento abierto porque su contenido está expuesto al entorno.<br><br><font weight='bold'>Habitaciones</font><br>Estar dentro de una habitación bloquea el viento y la lluvia, proporciona un bono de aislamiento térmico y permite que una fuente de calor cercana afecte todos los objetos dentro de la habitación."
+}

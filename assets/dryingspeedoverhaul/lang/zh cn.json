@@ -1,0 +1,20 @@
+﻿{
+  "dryingspeedoverhaul:block-dryingrack-aged": "旧木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-bamboo": "竹制晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-acacia": "金合欢木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-baldcypress": "落羽杉木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-birch": "桦木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-ebony": "乌木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-kapok": "木棉晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-larch": "落叶松晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-maple": "枫木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-oak": "橡木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-pine": "松木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-purpleheart": "紫心木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-redwood": "红杉木晾晒架",
+  "dryingspeedoverhaul:block-dryingrack-walnut": "胡桃木晾晒架",
+  "dryingspeedoverhaul:gui-dryingrack-title": "晾晒架",
+  "dryingspeedoverhaul:hud-stored-drying-speed": "存储物品干燥速度：{0}x",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-title": "干燥速度",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-text": "<font color='#aaaaaa'><i>此翻译由AI完成。对于任何错误，我们深表歉意。</i></font><br><br>所有显示的数值均为默认值，可在模组配置文件中更改。<br><br><font weight='bold'>温度</font><br>低于 <font weight='bold'>0°C</font> 时干燥停止。在 <font weight='bold'>30°C</font> 时以正常速度干燥。在 <font weight='bold'>60°C</font> 时以 <font weight='bold'>2倍</font> 速度干燥。<br>房间提供 <font weight='bold'>+8°C</font> 的隔热加成，小房间为 <font weight='bold'>+12°C</font>。<br><br><font weight='bold'>附近热源</font><br>3格范围内的热源可大幅提升干燥速度。距离越近效果越强。<br>热源会覆盖低温效果，将有效温度至少固定在 <font weight='bold'>30°C</font>。<br><br><font weight='bold'>风</font><br>满风时风可将干燥速度提升至 <font weight='bold'>1.5倍</font>。仅在室外有效。<br><br><font weight='bold'>雨</font><br>雨水会使物品更湿，使干燥速度变为负数。需要能看到天空。<br><br><font weight='bold'>存储类型</font><br>开放存储——任何展示容器，如工具架、晾晒架和地面堆放：<font weight='bold'>1.0倍</font><br>实体背包，如玩家和船只：<font weight='bold'>0.5倍</font><br>封闭存储，如箱子和木桶：<font weight='bold'>0.25倍</font><br><br>展示容器被视为开放存储，因为其内容物暴露在环境中。<br><br><font weight='bold'>房间</font><br>在房间内可阻挡风和雨，提供温度隔热加成，并允许附近的热源影响房间内的所有物品。"
+}

@@ -1,0 +1,20 @@
+﻿{
+  "dryingspeedoverhaul:block-dryingrack-aged": "Altes Holz Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-bamboo": "Bambus Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-acacia": "Akazie Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-baldcypress": "Kahlzypresse Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-birch": "Birke Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-ebony": "Ebenholz Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-kapok": "Kapok Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-larch": "Lärche Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-maple": "Ahorn Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-oak": "Eiche Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-pine": "Kiefer Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-purpleheart": "Purpurholz Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-redwood": "Rotholz Trockengestell",
+  "dryingspeedoverhaul:block-dryingrack-walnut": "Walnuss Trockengestell",
+  "dryingspeedoverhaul:gui-dryingrack-title": "Trockengestell",
+  "dryingspeedoverhaul:hud-stored-drying-speed": "Trocknungsgeschwindigkeit gelagerter Gegenstände: {0}x",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-title": "Trocknungsgeschwindigkeit",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-text": "<font color='#aaaaaa'><i>Diese Übersetzung wurde mit KI erstellt. Wir entschuldigen uns für etwaige Fehler.</i></font><br><br>Alle angezeigten Werte sind Standardwerte und können in der Mod-Konfigurationsdatei geändert werden.<br><br><font weight='bold'>Temperatur</font><br>Unter <font weight='bold'>0°C</font> stoppt das Trocknen. Bei <font weight='bold'>30°C</font> trocknet es mit normaler Geschwindigkeit. Bei <font weight='bold'>60°C</font> trocknet es mit <font weight='bold'>2-facher</font> Geschwindigkeit.<br>Räume bieten einen Isolierungsbonus von <font weight='bold'>+8°C</font>, oder <font weight='bold'>+12°C</font> in einem kleinen Raum.<br><br><font weight='bold'>Nahe Wärmequelle</font><br>Eine nahe Wärmequelle innerhalb von 3 Blöcken erhöht die Trocknungsgeschwindigkeit erheblich. Die Entfernung spielt eine Rolle — näher ist stärker.<br>Wärmequellen überschreiben kalte Temperaturen und klemmen die effektive Temperatur auf mindestens <font weight='bold'>30°C</font>.<br><br><font weight='bold'>Wind</font><br>Wind erhöht die Trocknungsgeschwindigkeit bei vollem Wind auf bis zu <font weight='bold'>1,5-fach</font>. Funktioniert nur im Freien.<br><br><font weight='bold'>Regen</font><br>Regen macht Gegenstände nasser und drückt die Trocknungsgeschwindigkeit ins Negative. Erfordert Zugang zum Himmel.<br><br><font weight='bold'>Lagerungstyp</font><br>Offene Lagerung — jeder Schaukasten wie Werkzeugregale, Trockengestelle und Bodenstapel: <font weight='bold'>1,0x</font><br>Entitätsinventare wie Spieler und Boote: <font weight='bold'>0,5x</font><br>Geschlossene Lagerung wie Truhen und Fässer: <font weight='bold'>0,25x</font><br><br>Schaukästen gelten als offene Lagerung, da ihr Inhalt der Umgebung ausgesetzt ist. Dazu gehört alles, was seine Gegenstände sichtbar in der Welt anzeigt, wie Werkzeugregale, Trockengestelle und Bodenstapel.<br><br><font weight='bold'>Räume</font><br>Das Befinden in einem Raum blockiert Wind und Regen, bietet einen Temperaturisolierungsbonus und ermöglicht es einer nahen Wärmequelle, alle Gegenstände im Raum zu beeinflussen."
+}

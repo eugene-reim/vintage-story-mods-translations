@@ -1,0 +1,20 @@
+﻿{
+  "dryingspeedoverhaul:block-dryingrack-aged": "Varal de madeira envelhecida",
+  "dryingspeedoverhaul:block-dryingrack-bamboo": "Varal de bambu",
+  "dryingspeedoverhaul:block-dryingrack-acacia": "Varal de acácia",
+  "dryingspeedoverhaul:block-dryingrack-baldcypress": "Varal de cipreste careca",
+  "dryingspeedoverhaul:block-dryingrack-birch": "Varal de bétula",
+  "dryingspeedoverhaul:block-dryingrack-ebony": "Varal de ébano",
+  "dryingspeedoverhaul:block-dryingrack-kapok": "Varal de kapok",
+  "dryingspeedoverhaul:block-dryingrack-larch": "Varal de larício",
+  "dryingspeedoverhaul:block-dryingrack-maple": "Varal de bordo",
+  "dryingspeedoverhaul:block-dryingrack-oak": "Varal de carvalho",
+  "dryingspeedoverhaul:block-dryingrack-pine": "Varal de pinheiro",
+  "dryingspeedoverhaul:block-dryingrack-purpleheart": "Varal de coração-roxo",
+  "dryingspeedoverhaul:block-dryingrack-redwood": "Varal de sequoia",
+  "dryingspeedoverhaul:block-dryingrack-walnut": "Varal de nogueira",
+  "dryingspeedoverhaul:gui-dryingrack-title": "Varal de Secagem",
+  "dryingspeedoverhaul:hud-stored-drying-speed": "Velocidade de secagem dos itens armazenados: {0}x",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-title": "Velocidade de secagem",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-text": "<font color='#aaaaaa'><i>Esta tradução foi feita com IA. Pedimos desculpas por quaisquer erros.</i></font><br><br>Todos os valores exibidos são padrão e podem ser alterados no arquivo de configuração do mod.<br><br><font weight='bold'>Temperatura</font><br>Abaixo de <font weight='bold'>0°C</font> a secagem para. A <font weight='bold'>30°C</font> a secagem ocorre em velocidade normal. A <font weight='bold'>60°C</font> a secagem ocorre a <font weight='bold'>2x</font> a velocidade.<br>Salas oferecem um bônus de isolamento de <font weight='bold'>+8°C</font>, ou <font weight='bold'>+12°C</font> em uma sala pequena.<br><br><font weight='bold'>Fonte de calor próxima</font><br>Uma fonte de calor próxima dentro de 3 blocos aumenta muito a velocidade de secagem. A distância importa — mais perto é mais forte.<br>Fontes de calor substituem temperaturas frias, fixando a temperatura efetiva em pelo menos <font weight='bold'>30°C</font>.<br><br><font weight='bold'>Vento</font><br>O vento aumenta a velocidade de secagem em até <font weight='bold'>1,5x</font> com vento total. Funciona apenas ao ar livre.<br><br><font weight='bold'>Chuva</font><br>A chuva deixa os itens mais úmidos, tornando a velocidade de secagem negativa. Requer acesso ao céu.<br><br><font weight='bold'>Tipo de armazenamento</font><br>Armazenamento aberto — qualquer contêiner de exibição como suportes de ferramentas, varais e pilhas no chão: <font weight='bold'>1,0x</font><br>Inventários de entidades como jogadores e barcos: <font weight='bold'>0,5x</font><br>Armazenamento fechado como baús e barris: <font weight='bold'>0,25x</font><br><br>Contêineres de exibição são considerados armazenamento aberto porque seu conteúdo está exposto ao ambiente.<br><br><font weight='bold'>Salas</font><br>Estar dentro de uma sala bloqueia vento e chuva, fornece um bônus de isolamento térmico e permite que uma fonte de calor próxima afete todos os itens dentro da sala."
+}

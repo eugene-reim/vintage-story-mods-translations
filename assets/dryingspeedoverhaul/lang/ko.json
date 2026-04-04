@@ -1,0 +1,20 @@
+﻿{
+  "dryingspeedoverhaul:block-dryingrack-aged": "오래된 나무 건조대",
+  "dryingspeedoverhaul:block-dryingrack-bamboo": "대나무 건조대",
+  "dryingspeedoverhaul:block-dryingrack-acacia": "아카시아 건조대",
+  "dryingspeedoverhaul:block-dryingrack-baldcypress": "낙우송 건조대",
+  "dryingspeedoverhaul:block-dryingrack-birch": "자작나무 건조대",
+  "dryingspeedoverhaul:block-dryingrack-ebony": "흑단 건조대",
+  "dryingspeedoverhaul:block-dryingrack-kapok": "카포크 건조대",
+  "dryingspeedoverhaul:block-dryingrack-larch": "낙엽송 건조대",
+  "dryingspeedoverhaul:block-dryingrack-maple": "단풍나무 건조대",
+  "dryingspeedoverhaul:block-dryingrack-oak": "참나무 건조대",
+  "dryingspeedoverhaul:block-dryingrack-pine": "소나무 건조대",
+  "dryingspeedoverhaul:block-dryingrack-purpleheart": "퍼플하트 건조대",
+  "dryingspeedoverhaul:block-dryingrack-redwood": "레드우드 건조대",
+  "dryingspeedoverhaul:block-dryingrack-walnut": "호두나무 건조대",
+  "dryingspeedoverhaul:gui-dryingrack-title": "건조대",
+  "dryingspeedoverhaul:hud-stored-drying-speed": "보관 아이템 건조 속도: {0}x",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-title": "건조 속도",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-text": "<font color='#aaaaaa'><i>이 번역은 AI로 작성되었습니다. 오류가 있을 수 있으며 사과드립니다.</i></font><br><br>표시된 모든 값은 기본값이며 모드 설정 파일에서 변경할 수 있습니다.<br><br><font weight='bold'>온도</font><br><font weight='bold'>0°C</font> 이하에서는 건조가 멈춥니다. <font weight='bold'>30°C</font>에서는 정상 속도로 건조됩니다. <font weight='bold'>60°C</font>에서는 <font weight='bold'>2배</font> 속도로 건조됩니다.<br>방은 <font weight='bold'>+8°C</font>의 단열 보너스를 제공하며, 작은 방에서는 <font weight='bold'>+12°C</font>입니다.<br><br><font weight='bold'>근처 열원</font><br>3블록 이내의 열원은 건조 속도를 크게 높입니다. 거리가 중요하며 가까울수록 효과가 강합니다.<br>열원은 낮은 온도를 무시하고 유효 온도를 최소 <font weight='bold'>30°C</font>로 고정합니다.<br><br><font weight='bold'>바람</font><br>바람은 최대 풍속에서 건조 속도를 최대 <font weight='bold'>1.5배</font>까지 높입니다. 실외에서만 작동합니다.<br><br><font weight='bold'>비</font><br>비는 아이템을 더 젖게 만들어 건조 속도를 음수로 만듭니다. 하늘에 접근 가능해야 합니다.<br><br><font weight='bold'>보관 유형</font><br>개방 보관——도구 선반, 건조대, 바닥 더미 등 모든 진열 컨테이너: <font weight='bold'>1.0배</font><br>플레이어와 보트 등 엔티티 인벤토리: <font weight='bold'>0.5배</font><br>상자와 통 등 밀폐 보관: <font weight='bold'>0.25배</font><br><br>진열 컨테이너는 내용물이 환경에 노출되어 있기 때문에 개방 보관으로 간주됩니다.<br><br><font weight='bold'>방</font><br>방 안에 있으면 바람과 비가 차단되고 온도 단열 보너스가 제공되며 근처 열원이 방 안의 모든 아이템에 영향을 줄 수 있습니다."
+}

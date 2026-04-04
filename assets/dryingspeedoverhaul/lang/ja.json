@@ -1,0 +1,20 @@
+﻿{
+  "dryingspeedoverhaul:block-dryingrack-aged": "エイジドウッド乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-bamboo": "竹の乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-acacia": "アカシア乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-baldcypress": "ヌマスギ乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-birch": "シラカバ乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-ebony": "エボニー乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-kapok": "カポック乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-larch": "カラマツ乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-maple": "カエデ乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-oak": "オーク乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-pine": "マツ乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-purpleheart": "パープルハート乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-redwood": "レッドウッド乾燥ラック",
+  "dryingspeedoverhaul:block-dryingrack-walnut": "ウォールナット乾燥ラック",
+  "dryingspeedoverhaul:gui-dryingrack-title": "乾燥ラック",
+  "dryingspeedoverhaul:hud-stored-drying-speed": "保管アイテムの乾燥速度：{0}x",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-title": "乾燥速度",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-text": "<font color='#aaaaaa'><i>この翻訳はAIによって作成されました。誤りがあればお詫び申し上げます。</i></font><br><br>表示されている値はすべてデフォルト値であり、MOD設定ファイルで変更できます。<br><br><font weight='bold'>温度</font><br><font weight='bold'>0°C</font> 以下では乾燥が停止します。<font weight='bold'>30°C</font> では通常速度で乾燥します。<font weight='bold'>60°C</font> では <font weight='bold'>2倍</font> の速度で乾燥します。<br>部屋では <font weight='bold'>+8°C</font> の断熱ボーナスがあり、小さな部屋では <font weight='bold'>+12°C</font> になります。<br><br><font weight='bold'>近くの熱源</font><br>3ブロック以内の熱源は乾燥速度を大幅に向上させます。距離が重要で、近いほど効果が強くなります。<br>熱源は低温を上書きし、有効温度を少なくとも <font weight='bold'>30°C</font> に固定します。<br><br><font weight='bold'>風</font><br>最大風速時、風は乾燥速度を最大 <font weight='bold'>1.5倍</font> に上昇させます。屋外でのみ有効です。<br><br><font weight='bold'>雨</font><br>雨はアイテムをより湿らせ、乾燥速度をマイナスにします。空へのアクセスが必要です。<br><br><font weight='bold'>保管タイプ</font><br>開放保管——ツールラック、乾燥ラック、地面への積み重ねなどのディスプレイコンテナ：<font weight='bold'>1.0倍</font><br>プレイヤーやボートなどのエンティティインベントリ：<font weight='bold'>0.5倍</font><br>チェストや樽などの密閉保管：<font weight='bold'>0.25倍</font><br><br>ディスプレイコンテナは内容物が環境にさらされているため、開放保管とみなされます。<br><br><font weight='bold'>部屋</font><br>部屋の中にいると風と雨が遮断され、温度断熱ボーナスが得られ、近くの熱源が部屋内のすべてのアイテムに影響を与えます。"
+}

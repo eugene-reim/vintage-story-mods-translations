@@ -1,0 +1,20 @@
+﻿{
+  "dryingspeedoverhaul:block-dryingrack-aged": "Séchoir en bois vieilli",
+  "dryingspeedoverhaul:block-dryingrack-bamboo": "Séchoir en bambou",
+  "dryingspeedoverhaul:block-dryingrack-acacia": "Séchoir en acacia",
+  "dryingspeedoverhaul:block-dryingrack-baldcypress": "Séchoir en cyprès chauve",
+  "dryingspeedoverhaul:block-dryingrack-birch": "Séchoir en bouleau",
+  "dryingspeedoverhaul:block-dryingrack-ebony": "Séchoir en ébène",
+  "dryingspeedoverhaul:block-dryingrack-kapok": "Séchoir en kapok",
+  "dryingspeedoverhaul:block-dryingrack-larch": "Séchoir en mélèze",
+  "dryingspeedoverhaul:block-dryingrack-maple": "Séchoir en érable",
+  "dryingspeedoverhaul:block-dryingrack-oak": "Séchoir en chêne",
+  "dryingspeedoverhaul:block-dryingrack-pine": "Séchoir en pin",
+  "dryingspeedoverhaul:block-dryingrack-purpleheart": "Séchoir en amarante",
+  "dryingspeedoverhaul:block-dryingrack-redwood": "Séchoir en séquoia",
+  "dryingspeedoverhaul:block-dryingrack-walnut": "Séchoir en noyer",
+  "dryingspeedoverhaul:gui-dryingrack-title": "Séchoir",
+  "dryingspeedoverhaul:hud-stored-drying-speed": "Vitesse de séchage des objets stockés : {0}x",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-title": "Vitesse de séchage",
+  "dryingspeedoverhaul:craftinginfo-dryingspeed-text": "<font color='#aaaaaa'><i>Cette traduction a été réalisée par une IA. Nous nous excusons pour toute erreur.</i></font><br><br>Toutes les valeurs affichées sont des valeurs par défaut et peuvent être modifiées dans le fichier de configuration du mod.<br><br><font weight='bold'>Température</font><br>En dessous de <font weight='bold'>0°C</font> le séchage s'arrête. À <font weight='bold'>30°C</font> le séchage se déroule à vitesse normale. À <font weight='bold'>60°C</font> le séchage se déroule à <font weight='bold'>2x</font> la vitesse.<br>Les pièces offrent un bonus d'isolation de <font weight='bold'>+8°C</font>, ou <font weight='bold'>+12°C</font> dans une petite pièce.<br><br><font weight='bold'>Source de chaleur proche</font><br>Une source de chaleur proche dans un rayon de 3 blocs augmente considérablement la vitesse de séchage. La distance compte — plus c'est proche, plus c'est puissant.<br>Les sources de chaleur remplacent les températures froides, fixant la température effective à au moins <font weight='bold'>30°C</font>.<br><br><font weight='bold'>Vent</font><br>Le vent augmente la vitesse de séchage jusqu'à <font weight='bold'>1,5x</font> à plein vent. Fonctionne uniquement à l'extérieur.<br><br><font weight='bold'>Pluie</font><br>La pluie rend les objets plus humides, rendant la vitesse de séchage négative. Nécessite un accès au ciel.<br><br><font weight='bold'>Type de stockage</font><br>Stockage ouvert — tout contenant d'affichage comme les râteliers à outils, les séchoirs et les tas au sol : <font weight='bold'>1,0x</font><br>Inventaires d'entités comme les joueurs et les bateaux : <font weight='bold'>0,5x</font><br>Stockage fermé comme les coffres et les barils : <font weight='bold'>0,25x</font><br><br>Les contenants d'affichage sont considérés comme un stockage ouvert car leur contenu est exposé à l'environnement.<br><br><font weight='bold'>Pièces</font><br>Être à l'intérieur d'une pièce bloque le vent et la pluie, offre un bonus d'isolation thermique et permet à une source de chaleur proche d'affecter tous les objets à l'intérieur de la pièce."
+}
