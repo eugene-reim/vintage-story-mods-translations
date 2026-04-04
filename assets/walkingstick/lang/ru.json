@@ -1,0 +1,57 @@
+{
+
+  "item-walkingstick": "Походная трость",
+  "item-walkingstick-crude": "Хлипая походная трость",
+  "item-walkingstick-cowskull": "Трость с черепом коровы",
+  "item-walkingstick-reinforced": "Укреплённая походная трость",
+
+  "item-walkingstick-lantern-copper": "Походная трость с медным фонарём",
+  "item-walkingstick-lantern-brass": "Походная трость с латунным фонарём",
+  "item-walkingstick-lantern-blackbronze": "Походная трость с фонарём из чёрной бронзы",
+  "item-walkingstick-lantern-bismuth": "Походная трость с висмутовым фонарём",
+  "item-walkingstick-lantern-tinbronze": "Походная трость с фонарём из оловянной бронзы",
+  "item-walkingstick-lantern-bismuthbronze": "Походная трость с фонарём из висмутовой бронзы",
+  "item-walkingstick-lantern-iron": "Походная трость с железным фонарём",
+  "item-walkingstick-lantern-molybdochalkos": "Походная трость с молибдохалковым фонарём",
+  "item-walkingstick-lantern-silver": "Походная трость с серебряным фонарём",
+  "item-walkingstick-lantern-gold": "Походная трость с золотым фонарём",
+  "item-walkingstick-lantern-steel": "Походная трость со стальным фонарём",
+  "item-walkingstick-lantern-meteoriciron": "Походная трость с фонарём из метеоритного железа",
+  "item-walkingstick-lantern-electrum": "Походная трость с электроумовым фонарём",
+
+  "item-walkingstick-shepherds": "Пастуший топор",
+  "item-walkingstick-architect": "Походная трость архитектора",
+  "item-walkingstick-pathfinder": "Походная трость следопыта",
+  "item-walkingstick-leap": "Пастушья трость",
+  "item-walkingstick-blackthorn": "Терновая походная трость",
+  "item-walkingstick-witch": "Ведьминская походная трость",
+
+
+  "itemdesc-walkingstick": "Удобный помощник для ходьбы, позволяющее экономить силы во время ходьбы.",
+  "itemdesc-walkingstick-crude": "Хлипкий помощник для ходьбы, которое немного экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-cowskull": "Декоративное приспособление для ходьбы, позволяющее экономить силы во время ходьбы.",
+  "itemdesc-walkingstick-reinforced": "Усиленное приспособление для ходьбы, обладающее солидными характеристиками.",
+  "itemdesc-walkingstick-lantern-copper": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-brass": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-blackbronze": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-bismuth": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-tinbronze": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-bismuthbronze": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-iron": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-molybdochalkos": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-silver": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-gold": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-steel": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-meteoriciron": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+  "itemdesc-walkingstick-lantern-electrum": "Средство для ходьбы с ярким фонарём, освещающим путь. Экономит силы во время ходьбы.",
+
+  "item-axehead-shepherds-iron": "Железный пастуший топор",
+
+  "itemdesc-walkingstick-shepherds": "Также известна как Циупага, Валушка или Фокос в горных районах. Представляет собой сочетание трости и лесного многофункционального оружия и позволяет расчищать кустарник впереди, обеспечивая защиту при необходимости.",
+  "itemdesc-walkingstick-architect": "Трость с дополнительным прибором, позволяющим измерить расстояние между блоками.",
+  "itemdesc-walkingstick-pathfinder": "Трость, оснащенная компактным телескопом. Идеально подходит для осмотра пути впереди или наблюдения за звездами.",
+  "itemdesc-walkingstick-leap": "Также известная на Вулканических островах как гаррота, помогающая преодолеть пересеченную местность..",
+  "itemdesc-walkingstick-blackthorn": "Также известна как Шиллелаг на Изумрудном острове. Экономит силы при ходьбе, но очень опасен при размахивании.",
+  "itemdesc-walkingstick-witch": "Очаровательное приспособление для ходьбы, излучающее теплый, уютный свет и облегчающее бремя путешественника с каждым шагом."
+
+}

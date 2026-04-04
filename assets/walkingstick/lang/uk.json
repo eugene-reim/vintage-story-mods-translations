@@ -1,0 +1,63 @@
+{
+
+  "item-walkingstick": "Посох",
+  "item-walkingstick-crude": "Грубий посох",
+  "item-walkingstick-cowskull": "Посох з черепом корови",
+  "item-walkingstick-reinforced": "Посилений посох",
+
+  "item-walkingstick-lantern-copper": "Посох з ліхтарем з міді",
+  "item-walkingstick-lantern-brass": "Посох з ліхтарем з латуні", 
+  "item-walkingstick-lantern-blackbronze": "Посох з ліхтарем з чорної бронзи",
+  "item-walkingstick-lantern-bismuth": "Посох з ліхтарем із бісмуту",
+  "item-walkingstick-lantern-tinbronze": "Посох з ліхтарем з олов'яної бронзи",
+  "item-walkingstick-lantern-bismuthbronze": "Посох з ліхтарем з бісмутової бронзи",
+  "item-walkingstick-lantern-iron": "Посох з ліхтарем із заліза",
+  "item-walkingstick-lantern-molybdochalkos": "Посох з ліхтарем із молібдохалькосу",
+  "item-walkingstick-lantern-silver": "Посох з ліхтарем зі срібла",
+  "item-walkingstick-lantern-gold": "Посох з ліхтарем із золота",
+  "item-walkingstick-lantern-steel": "Посох з ліхтарем зі сталі",
+  "item-walkingstick-lantern-meteoriciron": "Посох з ліхтарем з метеоритного заліза",
+  "item-walkingstick-lantern-electrum": "Посох з ліхтарем з електруму",
+
+  "item-walkingstick-shepherds": "Сокира пастуха",
+  "item-walkingstick-architect": "Посох архітектора",
+  "item-walkingstick-pathfinder": "Посох дослідника",
+  "item-walkingstick-leap": "Жердина пастуха",
+  "item-walkingstick-blackthorn": "Посох з терену",
+  "item-walkingstick-witch": "Посох відьми",
+  "item-walkingstick-sling": "Посох-праща",
+  "item-walkingstick-sling-packed": "Складений посох-праща",
+  "item-walkingstick-jonas": "Посох Джонаса «Попелястий стрілець»",
+
+
+
+  "itemdesc-walkingstick": "Зручна допоміжна опора для економії енергії під час ходьби",
+  "itemdesc-walkingstick-crude": "Ненадійний пристрій для ходьби, який трохи економить енергію під час ходьби",
+  "itemdesc-walkingstick-cowskull": "Прикрашена опора для ходьби, яка економить енергію",
+  "itemdesc-walkingstick-reinforced": "Посилена опора для ходьби, яка забезпечує надійну підтримку",
+  "itemdesc-walkingstick-lantern-copper": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-brass": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-blackbronze": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-bismuth": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-tinbronze": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-bismuthbronze": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-iron": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-molybdochalkos": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-silver": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-gold": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-steel": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-meteoriciron": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+  "itemdesc-walkingstick-lantern-electrum": "Яскравий пристрій для ходьби, який освітлює шлях попереду і економить енергію під час ходьби.",
+
+  "item-axehead-shepherds-iron": "Залізна головка сокири пастуха",
+
+  "itemdesc-walkingstick-jonas": "Розплавить все, що стоїть перед вами, навіть посох.",
+  "itemdesc-walkingstick-shepherds": "У гірських регіонах також відомий як чюпага, бартка або фокос. Поєднання палиці для ходьби та лісогосподарського багатофункціонального інструменту, він допомагає розчищати чагарники попереду та забезпечує захист у разі потреби.",
+  "itemdesc-walkingstick-architect": "Посох, який також служить вимірювальним приладом, що дозволяє вимірювати відстань між блоками.",
+  "itemdesc-walkingstick-pathfinder": "Посох, оснащений компактним телескопом, ідеально підходить для огляду шляху попереду або спостереження за зірками.",
+  "itemdesc-walkingstick-leap": "Також відомий як гароте на Вулканічних островах, він допомагає пересуватися по пересіченій місцевості.",
+  "itemdesc-walkingstick-blackthorn": "На Смарагдовому острові також називається «шилега». Економить енергію під час ходьби, але потужний при ударі.",
+  "itemdesc-walkingstick-witch": "Чарівний посох, який випромінює тепле, заспокійливе світло, полегшуючи мандрівникові кожен крок.",
+  "itemdesc-walkingstick-sling": "Поєднання посоха та міцної пращі для дальнього бою.\n<font color=\"#B3FFFFFF\"><i>Використовує звичайне каміння як набої.</i></font>"
+
+}
