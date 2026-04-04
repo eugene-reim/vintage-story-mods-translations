@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "vintage-story-mods-translations",
+  "name": "Vintage Story Mods Translations (RU)",
+  "description": "Русская локализация некоторых модов от ITheLegend28I",
+  "authors": [
+    "ITheLegend28I"
+  ],
+  "version": "0.0.1"
+}
