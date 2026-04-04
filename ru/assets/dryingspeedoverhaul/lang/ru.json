@@ -1,0 +1,20 @@
+{
+    "dryingspeedoverhaul:block-dryingrack-aged": "Aged Wood Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-bamboo": "Bamboo Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-acacia": "Acacia Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-baldcypress": "Bald Cypress Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-birch": "Birch Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-ebony": "Ebony Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-kapok": "Kapok Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-larch": "Larch Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-maple": "Maple Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-oak": "Oak Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-pine": "Pine Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-purpleheart": "Purpleheart Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-redwood": "Redwood Drying Rack",
+    "dryingspeedoverhaul:block-dryingrack-walnut": "Walnut Drying Rack",
+    "dryingspeedoverhaul:gui-dryingrack-title": "Drying Rack",
+    "dryingspeedoverhaul:hud-stored-drying-speed": "Stored item drying speed: {0}x",
+    "dryingspeedoverhaul:craftinginfo-dryingspeed-title": "Drying Speed",
+    "dryingspeedoverhaul:craftinginfo-dryingspeed-text": "All values shown are defaults and can be changed in the mod config file.<br><br><font weight='bold'>Temperature</font><br>Below <font weight='bold'>0°C</font> drying stops. At <font weight='bold'>30°C</font> drying runs at normal speed. At <font weight='bold'>60°C</font> drying runs at <font weight='bold'>2x</font> speed.<br>Rooms provide an insulation bonus of <font weight='bold'>+8°C</font>, or <font weight='bold'>+12°C</font> in a small room.<br><br><font weight='bold'>Nearby Heat Source</font><br>A nearby heat source within 3 blocks greatly increases drying speed. Distance matters — closer is stronger.<br>Heat sources override cold temperatures, clamping the effective temperature to at least <font weight='bold'>30°C</font>.<br><br><font weight='bold'>Wind</font><br>Wind increases drying speed up to <font weight='bold'>1.5x</font> at full wind. Only works outside.<br><br><font weight='bold'>Rain</font><br>Rain makes items wetter, pushing drying speed negative. Requires skylight access.<br><br><font weight='bold'>Storage Type</font><br>Open storage — any display container such as tool racks, drying racks, and ground piles: <font weight='bold'>1.0x</font><br>Entity inventories such as players and boats: <font weight='bold'>0.5x</font><br>Closed storage such as chests and barrels: <font weight='bold'>0.25x</font><br><br>Display containers are considered open storage because their contents are exposed to the environment. This includes anything that visually displays its items in the world, such as tool racks, drying racks, and ground storage piles.<br><br><font weight='bold'>Rooms</font><br>Being inside a room blocks wind and rain, provides a temperature insulation bonus, and allows a nearby heat source to affect all items inside the room."
+}
