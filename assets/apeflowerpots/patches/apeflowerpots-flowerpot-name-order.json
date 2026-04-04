@@ -1,0 +1,12 @@
+[
+  {
+    "file": "apeflowerpots:blocktypes/clay/storagevessel/vesselpot",
+    "op": "replace",
+    "path": "/behaviors/0/properties/parts",
+    "value": [
+      "apeflowerpots:flowerpotlc",
+      " ",
+      "apeflowerpots:{variant}"
+    ]
+  }
+]
